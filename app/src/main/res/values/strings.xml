@@ -1,0 +1,31 @@
+<resources>
+    // App
+    <string name="app_name">Kotlin Test</string>
+
+    // User data
+    <string name="user_name">Person</string>
+    <string name="user_hint">Username</string>
+    <integer name="user_age">0</integer>
+    <string name="age_hint">Age</string>
+
+    // Navbar
+    <string name="sign_in_nav">Sign In</string>
+    <string name="home_nav">Home</string>
+    <string name="location_nav">Location</string>
+    <string name="music_nav">Music</string>
+
+    // Toolbar
+    <string name="profile_nav">Profile</string>
+    <string name="friends_nav">Friends</string>
+
+    // Buttons
+    <string name="cancel_button">Cancel</string>
+    <string name="save_button">Save</string>
+
+    // Sign In
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+
+    // Home
+    <string name="welcome">Welcome</string>
+</resources>
