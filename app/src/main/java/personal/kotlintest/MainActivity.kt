@@ -132,7 +132,7 @@ class MainActivity : AppCompatActivity(), SignInFragment.OnSignInListener {
 
     private fun connected() {
         // Play a playlist
-//        spotifyAppRemote!!.playerApi.play("spotify:track:0MX6VvRcqrvJXRLzfZUOmk")
+        spotifyAppRemote!!.playerApi.play("spotify:track:0MX6VvRcqrvJXRLzfZUOmk")
 
         // Subscribe to PlayerState
         spotifyAppRemote!!.playerApi

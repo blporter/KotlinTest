@@ -2,12 +2,6 @@
     // App
     <string name="app_name">Kotlin Test</string>
 
-    // User data
-    <string name="user_name">Person</string>
-    <string name="user_hint">Username</string>
-    <integer name="user_age">0</integer>
-    <string name="age_hint">Age</string>
-
     // Navbar
     <string name="sign_in_nav">Sign In</string>
     <string name="home_nav">Home</string>
@@ -28,4 +22,15 @@
 
     // Home
     <string name="welcome">Welcome</string>
+
+    // Profile
+    <string name="user_name">Person</string>
+    <string name="user_hint">Username</string>
+    <integer name="user_age">0</integer>
+    <string name="age_hint">Age</string>
+
+    // Music
+    <string name="song_name">Song Name</string>
+    <string name="song_artist">Artist</string>
+    <string name="song_album">Album</string>
 </resources>
